@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MartinZlatarev
+- 👋 Hi, I’m @MartinZlatarev 13 y/o from Sofia Highschool of Mathematics
 - 👀 I’m interested in the languages C++ and Python and programming bots for different games.
 - 🌱 I’m currently improving my Starcraft II bot.
 - 💞️ I’m looking to collaborate on programming a bot in any game.
