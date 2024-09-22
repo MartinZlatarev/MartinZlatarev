@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartinZlatarev
-- 👀 I’m interested in the language C++ and programming bots for different games.
-- 🌱 I’m currently learning how to program a chess bot.
+- 👀 I’m interested in the languages C++ and Python and programming bots for different games.
+- 🌱 I’m currently improving my Starcraft II bot.
 - 💞️ I’m looking to collaborate on programming a bot in any game.
 - 📫 How to reach me: email - marti.zlatarev@gmail.com
